@@ -1,11 +1,11 @@
-# Weather Forecasting App
+# Women-Safety-Box
 # Description
-The Weather Forecasting App is a web-based application that provides accurate and up-to-date weather forecasts for various locations. It utilizes weather data from reliable sources to provide users with essential information such as temperature, humidity, wind speed, and conditions for the next few days. The app offers a user-friendly interface that allows users to search for weather forecasts by location or use their current location for instant updates.
+The Women Safety Box project is a mobile application designed to provide a reliable safety solution for women in emergency situations. With the "Shake for Emergency" feature, women can quickly and discreetly alert their dear ones or trusted individuals when they find themselves in distress or danger.
+In the event of an emergency, the user can initiate the alert simply by vigorously shaking their phone. This action triggers an immediate response from the Women Safety Box application, ensuring that help is on the way. The application generates an emergency alert message containing vital information such as the user's name and current location. This information is crucial for emergency contacts to accurately assess the situation and provide timely assistance.
 # Features
-* Current Weather: Get the current weather conditions for your location or any other specified location, including temperature, humidity, wind speed, and conditions.
-* 7-Day Forecast: Access a detailed 7-day weather forecast that includes temperature highs and lows, precipitation chances, and general weather conditions.
-* Location Search: Search for weather forecasts by entering a specific location, such as a city or town, and receive accurate results.
-* Geolocation: Utilize your device's geolocation capabilities to automatically retrieve weather information for your current location.
-* Favorites: Save frequently accessed locations as favorites for quick and easy weather updates.
-* Hourly Forecast: View hourly weather forecasts for the current day, including temperature changes and predicted conditions throughout the day.
-* Weather Alerts: Receive real-time weather alerts and notifications for severe weather conditions, such as storms, hurricanes, or extreme temperatures.
+* Shake for Emergency: The mobile application for the Women Safety Box includes a "Shake for Emergency" feature. In case of an emergency, the user can vigorously shake their phone to trigger an alert.
+* Emergency Alert Message: When the user shakes the phone, the application will generate an emergency alert message containing the user's name, location, and a predefined distress message.
+* Automatic Message Sending: The application automatically sends the emergency alert message to the user's predefined emergency contacts, including their dear ones or trusted individuals.
+* Location Sharing: Along with the emergency alert message, the application includes the user's current location information obtained using the device's GPS capabilities. This allows emergency contacts to quickly locate the user.
+* Customizable Distress Message: Users have the option to customize the distress message sent to their emergency contacts. They can personalize the message to convey specific details or instructions in case of an emergency.
+* Confirmation and Cancelation: The application provides a confirmation prompt after the emergency alert is triggered. This prompt allows users to cancel the alert within a specified timeframe if it was triggered accidentally.
